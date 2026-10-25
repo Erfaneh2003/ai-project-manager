@@ -1,0 +1,6 @@
+{
+  "name": "TaskMatrix AI - Multi-Agent Project Manager",
+  "description": "Enterprise multi-agent project management system with autonomous requirement breakdown, skill-based task allocation with human approval, and deadline scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
